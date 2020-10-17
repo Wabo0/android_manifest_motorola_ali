@@ -2,4 +2,5 @@
 <manifest>
   <project name="Wabo0/android_device_motorola_ali" path="device/motorola/ali" remote="github" />
   <project name="Wabo0/android_kernel_motorola_sdm450" path="kernel/motorola/sdm450" remote="github" />
+  <project name="Wabo0/android_vendor_motorola_ali" path="vendor/motorola/ali" remote="github" /> 
 </manifest> 
